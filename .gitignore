@@ -1,0 +1,7 @@
+### WIN OS ###
+/.idea/
+/automationDemos.iml
+
+### UNIX OS ###
+\.idea/
+\automationDemos.iml
