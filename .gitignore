@@ -1,7 +1,8 @@
 ### WIN OS ###
 /.idea/
 /automationDemos.iml
-
+/out/*
 ### UNIX OS ###
 \.idea/
 \automationDemos.iml
+\out/*
