@@ -2,9 +2,15 @@ package main.java.datastructures.homework.lecture04;
 
 import java.util.Scanner;
 
-public class PrintWeekDay {
+public class T1_PrintWeekDay {
     public static void main(String[] args) {
+        /*
+        1. Write a program to print the days of the week based on the user digit 1-7 input.
+        7The message should be
+        “The [user input digit]-st/nd/rd/th day of the week is [the day of the week]”
+        Hint: Use switch-case.
 
+       */
         System.out.println("Please enter a day of the week:");
 
         Scanner scanner = new Scanner(System.in);

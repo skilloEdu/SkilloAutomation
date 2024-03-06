@@ -2,7 +2,7 @@ package main.java.datastructures.homework.lecture04;
 
 import java.util.Scanner;
 
-public class PlanVacation {
+public class T5_PlanVacation {
     public static void main(String[] args) {
 
 

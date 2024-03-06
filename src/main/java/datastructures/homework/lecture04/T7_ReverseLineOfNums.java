@@ -1,6 +1,6 @@
 package main.java.datastructures.homework.lecture04;
 
-public class ReverseLineOfNums {
+public class T7_ReverseLineOfNums {
     public static void main(String[] args) {
         int[] list = {1, 2, 3, 4, 5};
 
