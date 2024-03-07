@@ -1,4 +1,4 @@
-package main.java.datastructures.homework.lecture04;
+package main.java.homework.l4;
 
 public class T6_PrintDivisibleNumbers {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.datastructures.homework.lecture04;
+package main.java.homework.l4;
 
 import java.io.ByteArrayInputStream;
 import java.util.Scanner;
