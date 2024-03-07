@@ -1,8 +1,8 @@
 ### WIN OS ###
 /.idea/
-/automationDemos.iml
+/skilloAutomation13.iml
 /out/*
 ### UNIX OS ###
 \.idea/
-\automationDemos.iml
-\out/*
+\skilloAutomation13.iml
+\out\*

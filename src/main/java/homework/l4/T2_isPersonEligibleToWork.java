@@ -1,9 +1,9 @@
-package main.java.datastructures.homework.lecture04;
+package main.java.homework.l4;
 
 import java.io.ByteArrayInputStream;
 import java.util.Scanner;
 
-public class isPersonEligibleToWork {
+public class T2_isPersonEligibleToWork {
       public static void TestInput() {
               String input = "22\n";
               System.setIn(new ByteArrayInputStream(input.getBytes()));

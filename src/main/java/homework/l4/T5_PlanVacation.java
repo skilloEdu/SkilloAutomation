@@ -1,8 +1,8 @@
-package main.java.datastructures.homework.lecture04;
+package main.java.homework.l4;
 
 import java.util.Scanner;
 
-public class PlanVacation {
+public class T5_PlanVacation {
     public static void main(String[] args) {
 
 
