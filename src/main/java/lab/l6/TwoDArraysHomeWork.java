@@ -77,6 +77,5 @@ public class TwoDArraysHomeWork {
 
         System.out.println("The Left Diagonal sum is " + sumLeftDiagonal);
 
-        System.out.println("The End");
     }
 }

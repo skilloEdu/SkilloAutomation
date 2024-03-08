@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class TwoDArraysHomeWorkv2 {
+public class TwoDArraysDIagonalsWithWhileLoops {
 
     public static void TestInput() {
         String input = "5\n" +
@@ -47,7 +47,7 @@ public class TwoDArraysHomeWorkv2 {
 
        while (row < size && col < size) {
            int num = matrix[row][col];
-          topLeftToRightDown += matrix[row][col];
+           topLeftToRightDown += matrix[row][col];
            System.out.println("The matrix diagonal starting from TOP LEFT to DOWN right os :" + num  );
 
            //Ако няма инкрементация ще забие

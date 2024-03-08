@@ -1,4 +1,4 @@
-package main.java.lab.l6;
+package main.java.homework.l5.datastructures;
 
 import java.util.Scanner;
 
